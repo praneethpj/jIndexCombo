@@ -7,7 +7,7 @@ JavaSE  JcomboxBox setIndex id as any "String"
 Since you are working with jCombobox , it is difficult to put indexId as String. for example id="pe001" while value="praneeth". 
 this is cannot done with jComboBox.
 
-But in here jIndexCombo can avoid this problem.
+But in here jIndexCombo can avoid this and the jIndexCombo is a component.
 
 Implementation 
 -------------------
@@ -36,3 +36,7 @@ Additionally
 you can change the jIndexCombo color by call setColorby method
 
   jIndexCombo2.setColorby(Color.gray);
+  
+Reference
+https://stackoverflow.com/questions/31626528/how-to-set-id-and-value-for-jcombobox-when-fetching-id-and-value-from-database
+https://stackoverflow.com/questions/8327352/how-to-set-selected-index-jcombobox-by-value/9799256
