@@ -1,5 +1,7 @@
 # jIndexCombo
 
+   ![alt text](https://github.com/praneethpj/jIndexCombo/blob/master/git1.png)
+   
 Introduction
 ----------------
 JavaSE  JcomboxBox setIndex id as any "String"
@@ -30,7 +32,7 @@ you can get selected itemid
 
         jIndexCombo2.getSelectedIndexId() //return the value selected object
         
-        ![alt text](https://raw.githubusercontent.com/praneethpj/jIndexCombo/branch/path/to/git1.png)
+     
         
 Additionally 
 ---------------
