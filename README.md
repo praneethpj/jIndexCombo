@@ -37,6 +37,9 @@ you can change the jIndexCombo color by call setColorby method
 
   jIndexCombo2.setColorby(Color.gray);
   
+  
 References
+---------------
+
 https://stackoverflow.com/questions/31626528/how-to-set-id-and-value-for-jcombobox-when-fetching-id-and-value-from-database
 https://stackoverflow.com/questions/8327352/how-to-set-selected-index-jcombobox-by-value/9799256
