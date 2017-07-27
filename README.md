@@ -21,12 +21,12 @@ Implementation
        
         jIndexCombo2.setItemsArray(a);
         
-or you can use it call simply,
+or you can use simply,
 
         jIndexCombo2.setItems("p001","Praneeth");
         jIndexCombo2.setItems("p002","Ajith");
 
-you can fetch that selected by itemid
+you can get selected itemid
 
         jIndexCombo2.getSelectedIndexId() //return the value selected object
         
