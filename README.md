@@ -30,6 +30,8 @@ you can get selected itemid
 
         jIndexCombo2.getSelectedIndexId() //return the value selected object
         
+        ![alt text](https://raw.githubusercontent.com/praneethpj/jIndexCombo/branch/path/to/git1.png)
+        
 Additionally 
 ---------------
 
