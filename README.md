@@ -4,7 +4,7 @@ Introduction
 ----------------
 JavaSE  JcomboxBox setIndex id as any "String"
 
-While you are working with jCombobox , it is difficult to put indexId as String. for example id="pe001" while value="praneeth". 
+Since you are working with jCombobox , it is difficult to put indexId as String. for example id="pe001" while value="praneeth". 
 this is cannot done with jComboBox.
 
 But in here jIndexCombo can avoid this problem.
