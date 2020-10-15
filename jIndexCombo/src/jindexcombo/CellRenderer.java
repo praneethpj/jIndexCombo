@@ -13,7 +13,15 @@ import javax.swing.ListCellRenderer;
 class CellRenderer extends JLabel implements ListCellRenderer<Object> {
 
     private static int ID;
+   private static String name;
 
+  public static String getName(){
+	return name;
+  }
+
+  public static void setName(){
+   this.name=name;
+  }
     /**
      * @return the ID
      */
