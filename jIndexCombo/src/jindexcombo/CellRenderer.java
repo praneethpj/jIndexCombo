@@ -14,6 +14,7 @@ class CellRenderer extends JLabel implements ListCellRenderer<Object> {
 
     private static int ID;
    private static String name;
+   private static String description;
 
   public static String getName(){
 	return name;
